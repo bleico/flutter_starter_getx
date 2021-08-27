@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "488287823862",
+    "firebase_url": "https://fir-login-599c1-default-rtdb.firebaseio.com",
+    "project_id": "fir-login-599c1",
+    "storage_bucket": "fir-login-599c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488287823862:android:e1c6d0e321967ec25d49d7",
+        "android_client_info": {
+          "package_name": "com.tapmode.flutterstarter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488287823862-t48mqcp7ojbvrgnjheporju2g42oseba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRmtrMiJWLKvIwkOiQLUSLMwoxdfR4iOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488287823862-t48mqcp7ojbvrgnjheporju2g42oseba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
